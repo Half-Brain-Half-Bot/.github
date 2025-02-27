@@ -57,14 +57,6 @@ We had some **brilliantly terrible names** before landing on **Half-Brain, Half-
 
 ---
 
-## 🛠️ Next Steps  
-1️⃣ **Create the GitHub Organization** → Half-Brain, Half-Bot 🧠🤖  
-2️⃣ **Set up the core repos:**  
-   - `meatsync-ai` → **Bidirectional Knowledge Graph Sync**  
-   - `spaced-replication` → **AI-Augmented Memory Training**  
-   - `custom-thought-scaffolds` → **Override AI models with domain-specific logic**  
-3️⃣ **Recruit Meat-Brains & AI enthusiasts to break it and make it better.**  
-
 ## 🧩 Final Thought  
 We might be **half-brain and half-bot**, but that still makes us **one whole questionable intelligence.**  
 
