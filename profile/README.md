@@ -13,17 +13,17 @@ We’re at the dawn of **cybernetic intelligence**, where AI and humans must **l
 
 ### **The Two-Way Mentorship Model**
 
-#### **1️⃣ Human-in-the-Loop (AI → Meat-Brain)**
+#### **1️⃣ [Human-in-the-Loop](https://github.com/Half-Brain-Half-Bot/Human-in-the-Loop) (AI → Meat-Brain)**
 - **AI mentors the Meat-Brain**, accelerating structured learning through **graph-based knowledge** and **spaced repetition**.
 - AI helps **fill knowledge gaps**, surface **unknown unknowns**, and **optimize learning efficiency**.
 - The Meat-Brain **gains speed**, filtering vast amounts of data **without drowning in it**.
 
-#### **2️⃣ AI-in-the-Loop (Meat-Brain → AI)**
+#### **2️⃣ [AI-in-the-Loop](https://github.com/Half-Brain-Half-Bot/AI-in-the-Loop) (Meat-Brain → AI)**
 - **The Meat-Brain mentors the AI**, correcting **hallucinations** and guiding **model refinement** through real-world insight.
 - Experts can **fork** and **customize Knowledge Graphs**, giving AI better models to work with.
 - Over time, **better models bubble up** and **outcompete garbage**, ensuring AI aligns with useful reality.
 
-#### **3️⃣ Knowledge Graph API (Point of Intersection)**
+#### **3️⃣ [Knowledge Graph API](https://github.com/Half-Brain-Half-Bot/Knowledge-Graph-API/blob/main/README.md) (Point of Intersection)**
 - **The bridge between Human-in-the-Loop and AI-in-the-Loop**.
 - AI and humans **co-develop structured knowledge representations**, allowing each to **validate and refine the other's understanding**.
 - Enables **continuous hypothesis generation and testing**, making real-time scientific progress possible.
@@ -31,13 +31,12 @@ We’re at the dawn of **cybernetic intelligence**, where AI and humans must **l
 This **bidirectional feedback loop** is what makes *Half-Brain, Half-Bot* work.  
 Each side compensates for the other's disabilities, creating a **self-correcting intelligence system**.
 
-CopyEdit
 ## 👀 Part of the Half-Brain, Half-Bot Ecosystem  
 
 🚀 **[Half-Brain, Half-Bot](https://github.com/Half-Brain-Half-Bot)** → The parent project integrating AI & human expertise.  
+🧠 **[Human-in-the-Loop](https://github.com/Half-Brain-Half-Bot/Human-in-the-Loop)** → Leveraging AI to guide human learning and decision-making through structured knowledge.
+🤖 **[AI-in-the-Loop](https://github.com/Half-Brain-Half-Bot/AI-in-the-Loop)** → Enhancing AI models with expert human insights and curated knowledge.  
 🔗 **[Knowledge Graph API](https://github.com/Half-Brain-Half-Bot/Knowledge-Graph-API/blob/main/README.md)** → The core API for managing and querying structured knowledge graphs.  
-🧠 **[Human-in-the-Loop](https://github.com/Half-Brain-Half-Bot/Human-in-the-Loop)** → Enhancing AI models with expert human insights and curated knowledge.  
-🤖 **[AI-in-the-Loop](https://github.com/Half-Brain-Half-Bot/AI-in-the-Loop)** → Leveraging AI to guide human learning and decision-making through structured knowledge.  
 
 Together, these projects create an **AI-human synergy** where **insight and automation reinforce each other**. 
 
